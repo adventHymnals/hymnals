@@ -1,4 +1,3 @@
----
 CM2000:
   name: Campus Melodies
   abbvr: CM2000
@@ -161,4 +160,4 @@ blog:
   compiler: Brian Onang'o
   link: 'blog'
   gtLink: adventHymnals/blog_pages
- ---
+ 
