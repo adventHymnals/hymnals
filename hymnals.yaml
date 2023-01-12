@@ -16,7 +16,7 @@ CM2000:
   compiler: Eunice Nyakundi
   siteName: Campus Melodies
   link: campus-melodies
-  gtLink: GospelSounders/adventhymnals/master/content/11.campus-melodies
+  gtLink: adventhymnals/campus-melodies-csycms
 HfPF1838:
   name: Hymns for the Poor of the Flock
   abbvr: HfPF1838
@@ -37,7 +37,7 @@ HfPF1838:
   compiler: Unknown
   siteName: Hymns for the Poor of the Flock
   link: hymns-for-the-poor-of-the-flock
-  gtLink: GospelSounders/adventhymnals/master/content/08.hymns-for-the-poor-of-the-flock
+  gtLink: adventhymnals/hymns-for-the-poor-of-the-flock-csycms
 MH1843:
   name: Millenial Harp. Designed for Meetings on the Second Coming of Christ
   abbvr: MH1843
@@ -47,7 +47,7 @@ MH1843:
   compiler: Joshua V. Hymes
   siteName: Millenial Harp
   link: millenial-harp
-  gtLink: GospelSounders/adventhymnals/master/content/06.millenial-harp
+  gtLink: adventhymnals/millenial-harp-csycms
 HGPP1849:
   name: Hymns for God’s Peculiar People, That Keep the Commandments of God, and the
     faith of Jesus
@@ -57,8 +57,8 @@ HGPP1849:
   lang: en
   compiler: James White
   siteName: Hymns for God’s Peculiar People
-  link: Hymns-for-God's-Peculiar-People
-  gtLink: GospelSounders/adventhymnals/master/content/07.Hymns-for-God's-Peculiar-People
+  link: Hymns-for-Gods-Peculiar-People
+  gtLink: adventhymnals/Hymns-for-Gods-Peculiar-People-csycms
 HSAB1852:
   name: Hymns for Second Advent Believers who Observe the Sabbath of the Lord
   abbvr: HSAB1852
@@ -103,7 +103,7 @@ CS1908:
   lang: en
   compiler: Belden, F. E. (Franklin Edson)
   link: ''
-  gtLink: GospelSounders/adventhymnals/master/content/02.christ-in-song
+  gtLink: adventhymnals/christ-in-song-csycms
   sheets:
     pdf: https://raw.githubusercontent.com/GospelSounders/christ-in-song-pdfs/master/splitFiles
 CH1941:
@@ -114,7 +114,7 @@ CH1941:
   lang: en
   compiler: The General Conference Committee
   link: ''
-  gtLink: GospelSounders/adventhymnals/master/content/03.church-hymnal
+  gtLink: adventhymnals/church-hymnal-csycms
   sheets:
     html: https://raw.githubusercontent.com/GospelSounders/ch1941.adh/master/splitOriginalFiles
   music:
@@ -128,7 +128,7 @@ SDAH:
   lang: en
   compiler: The Hymnal Committee
   link: ''
-  gtLink: GospelSounders/adventhymnals/master/content/04.seventh-day-adventist-hymnal
+  gtLink: adventhymnals/seventh-day-adventist-hymnal-csycms
   sheets:
     img: https://raw.githubusercontent.com/GospelSounders/SDAHData/master/SDAHymnalsPhotos
   music:
@@ -142,7 +142,7 @@ NZK:
   lang: swa
   compiler: Anon*
   link: ''
-  gtLink: GospelSounders/adventhymnals/master/content/05.nyimbo-za-kristo
+  gtLink: adventhymnals/nyimbo-za-kristo-csycms
 WN:
   name: Wende Nyasaye
   abbvr: WN
@@ -151,5 +151,5 @@ WN:
   lang: luo
   compiler: The Seventh-day Adventist Mission, South Kavirondo, Kenya Colony
   link: ''
-  gtLink: GospelSounders/adventhymnals/master/content/05.wende-nyasaye
+  gtLink: adventhymnals/wende-nyasaye-csycms
  ---
