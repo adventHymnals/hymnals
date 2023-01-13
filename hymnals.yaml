@@ -101,7 +101,7 @@ CS1908:
   numSongs: '949'
   lang: en
   compiler: Belden, F. E. (Franklin Edson)
-  link: ''
+  link: 'christ-in-song'
   gtLink: adventhymnals/christ-in-song-csycms
   sheets:
     pdf: https://raw.githubusercontent.com/GospelSounders/christ-in-song-pdfs/master/splitFiles
@@ -112,7 +112,7 @@ CH1941:
   numSongs: '703'
   lang: en
   compiler: The General Conference Committee
-  link: ''
+  link: 'church-hymnal'
   gtLink: adventhymnals/church-hymnal-csycms
   sheets:
     html: https://raw.githubusercontent.com/GospelSounders/ch1941.adh/master/splitOriginalFiles
@@ -126,7 +126,7 @@ SDAH:
   numSongs: '695'
   lang: en
   compiler: The Hymnal Committee
-  link: ''
+  link: 'seventh-day-adventist-hymnal'
   gtLink: adventhymnals/seventh-day-adventist-hymnal-csycms
   sheets:
     img: https://raw.githubusercontent.com/GospelSounders/SDAHData/master/SDAHymnalsPhotos
@@ -140,7 +140,7 @@ NZK:
   numSongs: '220'
   lang: swa
   compiler: Anon*
-  link: ''
+  link: 'nyimbo-za-kristo'
   gtLink: adventhymnals/nyimbo-za-kristo-csycms
 WN:
   name: Wende Nyasaye
@@ -149,7 +149,7 @@ WN:
   numSongs: '332'
   lang: luo
   compiler: The Seventh-day Adventist Mission, South Kavirondo, Kenya Colony
-  link: ''
+  link: 'wende-nyasaye'
   gtLink: adventhymnals/wende-nyasaye-csycms
 blog:
   name: Blog
@@ -160,4 +160,3 @@ blog:
   compiler: Brian Onang'o
   link: 'blog'
   gtLink: adventHymnals/blog_pages
- 
